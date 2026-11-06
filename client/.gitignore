@@ -23,7 +23,14 @@ dist-ssr
 *.sln
 *.sw?
 
+# Environment files
 .env
 .env.*
 !.env.example
+
+# Project-specific environment files
+server/.env
+client/.env
+
+# Dependencies
 node_modules/
