@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TripWise – AI Smart Trip Planner ✈️
 
 **TripWise** is a modern, responsive, full-stack travel-planning web application built with React (Vite), Node.js, Express, MongoDB (with built-in zero-dependency disk fallback), and Google Gemini AI.
@@ -88,3 +89,6 @@ TripWise automatically calculates:
 - Authentic Andhra Bhojanam and Nitya Annadanam
 - Complete expense breakdown strictly under ₹8,000 for 2 people
 - Interactive map with coordinates and route lines
+=======
+# Ai-trip-planner
+>>>>>>> cbc12e6bc7f3bf5872d033595ec71308fbf60c22
