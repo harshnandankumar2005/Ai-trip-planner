@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "_id": "user_1793903903243_ve4x16",
+      "name": "Test Traveler",
+      "email": "test_1793903903058@tripwise.com",
+      "password": "$2b$10$mXJsS0L4PWDnojMsq4vRyeBHsCifGLnrUDxZAfSynEVsGeeH/Q1Ku",
+      "createdAt": "2026-11-05T18:38:23.243Z"
+    }
+  ],
+  "trips": []
+}
